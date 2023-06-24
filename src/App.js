@@ -1,9 +1,10 @@
 import "./App.css";
+import OtherImage from "./components/OtherImage";
 
 function App() {
   return (
     <>
-      <p>Jide</p>
+      <OtherImage />
     </>
   );
 }
